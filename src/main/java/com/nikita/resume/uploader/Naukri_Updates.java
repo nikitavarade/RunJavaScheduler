@@ -1,3 +1,4 @@
+package com.nikita.resume.uploader;
 import java.time.Duration;
 
 import org.openqa.selenium.By;
